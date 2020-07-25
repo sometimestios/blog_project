@@ -26,12 +26,12 @@ SECRET_KEY = ')wm)2hg#&3jzv-=&74ma8041)phwc+_lqzzb_i$5f3agq#*_m6'
 
 DEBUG = False
 
-ALLOWED_HOSTS =['47.98.244.113', 'localhost', '.tonysongwb.top']
+ALLOWED_HOSTS =['47.98.244.113','47.98.244.113:8001', 'localhost', '.tonysongwb.top']
 
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
 
 
 
