@@ -1,0 +1,12 @@
+# Untracked files:
+.idea/
+__pycache__/
+a.log
+blog/__pycache__/
+blog/migrations/
+blog/templatetags/__pycache__/
+comments/__pycache__/
+comments/migrations/
+comments/templatetags/__pycache__/
+db.sqlite3
+myblog/__pycache__/
